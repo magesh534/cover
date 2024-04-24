@@ -1,3 +1,4 @@
+
 # Ex.06 Book Front Cover Page Design
 ## Date:24/04/2024
 
@@ -31,6 +32,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 book.html
 <!DOCTYPE html>
 <html>
@@ -162,7 +164,7 @@ book.html
         
 
 </html>
-
+```
 ## OUTPUT:
 ![Screenshot 2024-04-24 092033](https://github.com/magesh534/cover/assets/135577936/c1a2514c-5c5f-4471-be72-af09c45f3f24)
 
